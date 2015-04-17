@@ -63,33 +63,33 @@ function displayResults(newData)
         row.appendChild(cell1)
 
         cell2 = document.createElement("td")
-        cell2.innerHTML = rows[district[i]]["FACILITY OPEN"]
+        cell2.innerHTML = (rows[district[i]]["FACILITY OPEN"] == null ? 0 : rows[district[i]]["FACILITY OPEN"])
         cell2.style.width = (document.getElementById("facilityOpen").offsetWidth -2 ) +"px"
         row.appendChild(cell2)
 
         cell3 = document.createElement("td")
-        cell3.innerHTML = rows[district[i]]["DC OPEN"]
+        cell3.innerHTML = (rows[district[i]]["DC OPEN"] == null ? 0 : rows[district[i]]["DC OPEN"])
         cell3.style.width = (document.getElementById("dcOpen").offsetWidth -2 ) +"px"
         row.appendChild(cell3)
 
         cell4 = document.createElement("td")
-        cell4.innerHTML = rows[district[i]]["DC_ASK"]
+        cell4.innerHTML = rows[district[i]]["DC_ASK"] == null ? 0 : rows[district[i]]["DC_ASK"]
         cell4.style.width = (document.getElementById("dcAsk").offsetWidth -2 ) +"px"
         row.appendChild(cell4)
 
         cell5 = document.createElement("td")
-        cell5.innerHTML = rows[district[i]]["GRANTED"]
+        cell5.innerHTML = rows[district[i]]["GRANTED"] == null ? 0 : rows[district[i]]["GRANTED"]
         cell5.style.width = (document.getElementById("dcGranted").offsetWidth -2 ) +"px"
         row.appendChild(cell5)
 
 
         cell6 = document.createElement("td")
-        cell6.innerHTML = rows[district[i]]["HQ OPEN"]
+        cell6.innerHTML = rows[district[i]]["HQ OPEN"] == null ? 0 : rows[district[i]]["HQ OPEN"]
         cell6.style.width = (document.getElementById("hqOpen").offsetWidth -2 ) +"px"
         row.appendChild(cell6)
 
         cell7 = document.createElement("td")
-        cell7.innerHTML = rows[district[i]]["PRINTED"]
+        cell7.innerHTML = rows[district[i]]["PRINTED"] == null ? 0 : rows[district[i]]["PRINTED"]
         cell7.style.width = (document.getElementById("hqPrinted").offsetWidth -2 ) +"px"
         row.appendChild(cell7)
 

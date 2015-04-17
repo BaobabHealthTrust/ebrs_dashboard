@@ -12,8 +12,7 @@ class DashboardController < ApplicationController
 
    counts = Child.by_district_code.keys(["#{code}"])
    if counts.rows.count > 0
-    scores[name] = {"DC OPEN" => 0, "FACILITY OPEN" => 0,"HQ OPEN" => 0,
-                    "GRANTED"=> 0,"DC_ASK"=> 0,"PRINTED" => 0 }
+    scores[name] = Hash.new(0)
     (counts || []).each do |child|
      scores[name][child.record_status] +=1
     end
