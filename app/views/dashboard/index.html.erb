@@ -1,0 +1,70 @@
+
+
+<table style="width: 100%;">
+  <thead>
+  <tr>
+    <th rowspan="2" id="district_head">District</th>
+    <th >Facility</th>
+    <th colspan="3">District Commissioner</th>
+    <th colspan="2" style="width: 25% !important;">Head Quarters</th>
+  </tr>
+  <tr>
+    <td id="facilityOpen">Open</td>
+    <td id="dcOpen">Open</td>
+    <td id="dcAsk">Asked</td>
+    <td id="dcGranted">Granted</td>
+    <td id="hqOpen">Open</td>
+    <td id="hqPrinted">Printed</td>
+  </tr>
+  </thead>
+  <tbody id="data">
+
+  </tbody>
+</table>
+
+<script type="text/javascript">
+    <!--
+
+    document.getElementById('data').style.height = (window.innerHeight- (document.getElementsByTagName("thead")[0].offsetHeight+20)) + "px"
+    ScrollRate = 60;
+
+    function scrollDiv_init(name) {
+        DivElmnt = document.getElementById(name);
+        ReachedMaxScroll = false;
+
+        DivElmnt.scrollTop = 0;
+        PreviousScrollTop  = 0;
+
+        ScrollInterval = setInterval('scrollDiv()', ScrollRate);
+    }
+
+    function scrollDiv() {
+
+        if (!ReachedMaxScroll) {
+            DivElmnt.scrollTop = PreviousScrollTop;
+            PreviousScrollTop++;
+
+            ReachedMaxScroll = DivElmnt.scrollTop >= (DivElmnt.scrollHeight - DivElmnt.offsetHeight);
+        }
+        else {
+            ReachedMaxScroll = (DivElmnt.scrollTop == 0)?false:true;
+
+            DivElmnt.scrollTop = PreviousScrollTop;
+            PreviousScrollTop--;
+        }
+    }
+
+    function pauseDiv() {
+        clearInterval(ScrollInterval);
+    }
+
+    function resumeDiv() {
+        PreviousScrollTop = DivElmnt.scrollTop;
+        ScrollInterval    = setInterval('scrollDiv()', ScrollRate);
+    }
+
+    setTimeout("scrollDiv_init('data')", 30)
+    setTimeout("refreshData('/dashboard_counts')", 1000)
+    setInterval("refreshData('/dashboard_counts')", 5000)
+    //-->
+</script>

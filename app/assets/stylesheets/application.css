@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    -moz-user-select:none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead {
+    background-color: #1A62A3;
+    border-color: #F3EFE0;
+    text-align:left;
+    display: table;
+
+    width: 100%;
+}
+thead tr {
+    display: table-row;
+    width: 100%;
+}
+tbody {
+    display: block;
+    height: 540px;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 100%;
+}
+tbody tr {
+    display: table;
+    width: 100%;
+}
+tbody tr {
+    height: 18px;
+}
+tbody td {
+    text-align: center;
+    font-size: 150%;
+}
+
+
+tr:after{   /* IE8 fix */
+    content: ".";
+    margin-left: -3px; /* to hide the content above tr */ /* not necessary if you are ok with 1px gap */
+    visibility: hidden;
+}
+
+thead th{
+    font-size: 200%;
+    color: #F7F6F4;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    text-align: center;
+}
+
+
+thead td{
+    text-align: center;
+    font-size: 170%;
+    color: #E0EAE4;
+    padding: 10px;
+    border: 1px solid #ffffff;
+}
+
+
+tbody tr:nth-child(even) {
+    background-color: silver;
+}
+

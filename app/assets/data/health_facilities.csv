@@ -1,0 +1,650 @@
+FacilityCode,FacilityName,FacilityShortName
+01,Chitipa Health District,Chitipa
+0102,Chitipa District Hospital,Chitipa Hosp
+0103,Ifumbo Health Centre,Ifumbo HC
+0104,Kameme Health Centre,Kameme HC
+0105,Kapenda Health Centre,Kapenda HC
+0106,Kaseye St Michaels Health Centre,Kaseye HC
+0107,Misuku Health Centre,Misuku HC
+0108,Nthalire Health Centre,Nthalire HC
+0109,Wenya Health Centre,Wenya HC
+02,Karonga Health District,Karonga
+0201,Chilumba Rural Hospital,Chilumba Hosp
+0202,Fulirwa Health Centre,Fulirwa HC
+0203,Hara Dispensary,Hara Disp
+0204,Iponga Health Centre,Iponga HC
+0205,Kaporo Rural Hospital,Kaporo Hosp
+0206,Karonga District Hospital,Karonga Hosp
+0207,Lupembe Health Centre,Lupembe HC
+0208,Lwezga Health Centre,Lwezga HC
+0209,Mpata Health Centre,Mpata HC
+0210,Ngana Health Centre,Ngana HC
+0211,Nyungwe Health Centre,Nyungwe HC
+0212,Sangilo Health Centre,Sangilo HC
+0213,St Annes Health Centre,St Annes HC
+0214,Wiliro Health Centre,Wiliro HC
+0215,Chilumba Garrison Dispensary,Chilumba Garr Disp
+0216,Atupele Community Hospital,Atupele CH
+0217,Kasoba Health Centre,Kasoba HC
+0218,Mlare Health Centre,Mlare HC
+03,Nkhata Bay Health District,Nkhata Bay
+0301,Bula Health Centre,Bula HC
+0302,Chesamu Health Centre,Chesamu HC
+0303,Chikwina Health Centre,Chikwina HC
+0304,Chilambwe Health Centre,Chilambwe HC
+0305,Chintheche Rural Hospital,Chintheche Hosp
+0306,Chitheka Health Centre,Chitheka HC
+0307,Chizumulo (St Marys) Health Centre,St Marys HC
+0308,Kachere Health Centre,Kachere HC
+0309,Kande Health Centre,Kande HC
+0310,Khondowe Health Centre,Khondowe HC
+0311,Liuzi Health Centre,Liuzi HC
+0312,Lwazi Dispensary,Lwazi Disp
+0313,Mpamba Health Centre,Mpamba HC
+0314,Mzenga Health Centre,Mzenga HC
+0315,Nkhata Bay District Hospital,Nkhata Bay Hosp
+0316,Old Maula Court Health Centre,Old Maula Court HC
+0317,Ruarwe Dispensary,Ruarwe Disp
+0318,St Peters (Likoma) Rural Hospital,St Peters Hosp
+0319,Usisya Health Centre,Usisya HC
+0320,Nthungwa Health Centre,Nthungwa HC
+0321,Chisala Health Centre,Chisala HC
+04,Rumphi Health District,Rumphi
+0401,Bolero Health Centre,Bolero HC
+0402,Bwengu Health Centre,Bwengu HC
+0403,Chitimba Health Centre,Chitimba HC
+0404,DGM Livingstonia Hospital,DGM Livingstonia Hsp
+0405,Engucwini Dispensary,Engucwini Disp
+0406,Enukweni Health Centre,Enukweni HC
+0407,Kamwe Health Centre,Kamwe HC
+0408,Katowo Rural Hospital,Katowo Hosp
+0409,Luwuchi Health Centre,Luwuchi HC
+0410,Luzi Health Centre,Luzi HC
+0411,Mhuju Rural Hospital,Mhuju Hosp
+0412,Mlowe Health Centre,Mlowe HC
+0413,Mphopha Health Centre,Mphopha HC
+0414,Mwazisi Health Centre,Mwazisi HC
+0415,Mzokoto Health Centre,Mzokoto HC
+0416,Nthenje Dispensary,Nthenje Disp
+0417,Rumphi District Hospital,Rumphi Hosp
+0418,St Patricks Rumphi Health Centre,St Patricks HC
+0419,Tcharo Dispensary,Tcharo Disp
+0420,Thunduwike Health Centre,Thunduwike HC
+0421,Chitsimuka Health Centre,Chitsimuka HC
+0422,Jalawe Health Centre,Jalawe HC
+0423,Lura Health Centre,Lura HC
+0424,Ng'onga Health Centre,Ng'onga HC
+0457,Ekwaiweni Dispensary,Ekwaiweni Disp
+05,Mzimba Health District,Mzimba
+0501,Bulala Health Centre,Bulala HC
+0502,Choma Health Centre,Choma HC
+0503,Edingeni Rural Hospital,Edingeni Hosp
+0504,Ekwendeni Hospital,Ekwendeni Hosp
+0505,Embangweni Hospital,Embangweni Hosp
+0506,Emfeni Health Centre,Emfeni HC
+0507,Emsizini Health Centre,Emsizini HC
+0508,Endindeni Health Centre,Endindeni HC
+0509,Euthini Rural Hospital,Euthini Hosp
+0510,Hoho Health Centre,Hoho HC
+0511,Jenda Health Centre,Jenda HC
+0512,Kafukule Health Centre,Kafukule HC
+0513,Kalikumbi Health Centre,Kalikumbi HC
+0514,Kamteteka Health Centre,Kamteteka HC
+0515,Katete Rural Hospital,Katete Hosp
+0516,Khosolo Health Centre,Khosolo HC
+0517,Kabuwa Health Centre,Kabuwa HC
+0518,Lunjika Health Centre,Lunjika HC
+0519,Luvwere Dispensary,Luvwere Disp
+0520,Luwerezi Health Centre,Luwerezi HC
+0521,Mabili Health Centre,Mabili HC
+0522,Madede Health Centre,Madede HC
+0523,Malidadi Health Centre,Malidadi HC
+0524,Manyamula Health Centre,Manyamula HC
+0525,Mbalachanda Health Centre,Mbalachanda HC
+0526,Mpherembe Health Centre,Mpherembe HC
+0527,Msese Health Centre,Msese HC
+0528,Mtende Health Centre,Mtende HC
+0529,Mtwalo Health Centre,Mtwalo HC
+0530,Mzalangwe Health Centre,Mzalangwe HC
+0531,Mzambazi Rural Hospital,Mzambazi Hosp
+0532,Mzimba District Hospital,Mzimba Hosp
+0533,Mzuzu Urban Health Centre,Mzuzu Urban HC
+0534,Njuyu Health Centre,Njuyu HC
+0535,Nkhorongo Health Centre,Nkhorongo HC
+0536,St Johns Mzuzu Hospital,St Johns Mzuzu Hosp
+0537,St Johns of God Mental Hospital,St Johns of God Hosp
+0538,Mzuzu Central Hospital,Mzuzu Hosp
+0539,Matuli Dispensary,Matuli Disp
+0540,Kabwafu Health Centre,Kabwafu HC
+0541,Mkoma Health Centre,Mkoma HC
+0542,Chikangawa Health Centre,Chikangawa HC
+0543,Vibangalala Dispensary,Vibangalala Disp
+0544,Nkhuyukuyu Health Centre,Nkhuyukuyu HC
+0545,Luwawa Health Centre,Luwawa HC
+0546,Mhalaunda Health Centre,Mhalaunda HC
+0548,Raiply Dispensary,Raiply Disp
+0549,Ehehleni Dispensary,Ehehleni Disp
+06,Likoma Health District,Likoma
+0601,St Peters Hospital,St Peters Hosp
+0602,Chizumulo St Marys Health Centre,Chizumulo HC
+10,Kasungu Health District,Kasungu
+1001,Bua Health Centre (Kasungu),Bua HC (Kasungu)
+1002,Chamwabvi Dispensary,Chamwabvi Disp
+1003,Chulu Health Centre,Chulu HC
+1004,Dwangwa Health Centre,Dwangwa HC
+1005,Kaluluma Rural Hospital,Kaluluma Hosp
+1006,Kamboni Health Centre,Kamboni HC
+1007,Kapelula Health Centre,Kapelula HC
+1008,Kasungu District Hospital,Kasungu Hosp
+1009,Kawamba Health Centre,Kawamba HC
+1010,Mkhota R Growth Health Centre,Mkhota R Growth HC
+1011,Mtunthama Health Centre,Mtunthama HC
+1012,Newa / Mpasazi Health Centre,Newa / Mpasazi HC
+1013,Nkhamenya Hospital,Nkhamenya Hosp
+1014,Santhe Health Centre,Santhe HC
+1015,Simlemba Health Centre,Simlemba HC
+1016,Wimbe Health Centre,Wimbe HC
+1017,Mpepa / Chisinga Health Centre,Chisinga HC
+1018,Kasalika Dispensary,Kasalika Disp
+1019,KTFT Health Centre (Mziza),KTFT HC
+1020,Linyangwa Health Centre,Linyangwa HC
+1021,Gogode Health Centre,Gogode HC
+1022,Ofesi Health Centre,Ofesi HC
+1023,Khola Health Centre,Khola HC
+11,Nkhotakota Health District,Nkhotakota
+1101,Benga Health Centre,Benga HC
+1102,Bua Dispensary (Nkhotakota),Bua Disp (Nkhot)
+1103,Chididi Health Centre (Nkhotakota),Chididi HC (Nkhota)
+1104,Dwambazi Rural Hospital,Dwambazi RH
+1105,Kapili Health Centre,Kapili HC
+1106,Liwaladzi Health Centre,Liwaladzi HC
+1107,Mpamantha Dispensary,Mpamantha Disp
+1108,Mtosa Health Centre,Mtosa HC
+1109,Mwansambo Health Centre,Mwansambo HC
+1110,Ngala Health Centre,Ngala HC
+1111,Nkhotakota District Hospital,Nkhotakota Hosp
+1112,Nkhunga Health Centre,Nkhunga HC
+1113,Alinafe Rehabilitation Centre,Alinafe Rehab Centre
+1114,Katimbila Health Centre,Katimbila HC
+1115,St Annes Hospital,St Annes Hosp
+1116,Maloa Dispensary,Maloa Disp
+1117,Msenjere Health Centre,Msenjere HC
+1118,Matiki Health Centre,Matiki HC
+1119,Kasitu Dispensary,Kasitu Dispensary
+1119,Kasitu Health Centre,Kasitu HC
+1120,Dwangwa Can Growers Limited Clinic,Dwangwa Clinic
+12,Ntchisi Health District,Ntchisi
+1201,Chinguluwe Health Centre (Ntchisi),Chinguluwe HC (Ntch)
+1202,Chinthembwe Health Centre,Chinthembwe HC
+1203,Kamsonga Health Centre,Kamsonga HC
+1204,Kangolwa Health Centre,Kangolwa HC
+1205,Khuwi Health Centre,Khuwi HC
+1206,Malomo Health Centre,Malomo HC
+1207,Mkhuzi Health Centre,Mkhuzi HC
+1208,Mpherere Health Centre,Mpherere HC
+1209,Mzandu Health Centre,Mzandu HC
+1210,Ntchisi District Hospital,Ntchisi Hosp
+1211,Nthondo Health Centre (Ntchisi),Nthondo HC (Ntchisi)
+1212,Ndinda Dispensary,Ndinda Disp
+1213,Kaombe Dispensary,Kaombe Disp
+13,Dowa Health District,Dowa
+1301,Bowe Health Centre,Bowe HC
+1302,Chakhaza Health Centre,Chakhaza HC
+1303,Chankhungu Health Centre,Chankhungu HC
+1304,Chezi Dispensary,Chezi Disp
+1305,Chinkhwiri Health Centre,Chinkhwiri HC
+1306,Chisepo Health Centre,Chisepo HC
+1307,Dowa District Hospital,Dowa Hosp
+1308,Dzeleka Refugee Camp Health Centre,Dzeleka Ref Camp HC
+1309,Dzoole Health Centre,Dzoole HC
+1310,Kayembe Health Centre,Kayembe HC
+1311,Madisi Hospital,Madisi Hosp
+1312,Mbingwa Health Centre,Mbingwa HC
+1313,Mponela Rural Hospital,Mponela Hosp
+1314,Msakambewa Health Centre,Msakambewa HC
+1315,Mtengowanthenga Hospital,Mtengowanthenga Hosp
+1316,Mvera Army Camp Dispensary,Mvera Army Camp Disp
+1317,Mvera Mission Health Centre,Mvera Mission HC
+1318,Mwangala Health Centre,Mwangala HC
+1319,Nalunga Mafika Health Centre,Nalunga Mafika HC
+1320,Thonje Health Centre,Thonje HC
+1321,Chizolowondo Health Centre,Chizolowondo HC
+1322,Kasese Health centre,Kasese HC
+14,Salima Health District,Salima
+14,Gogo Nazombe health centre,gogo
+1401,Chinguluwe Health Centre (Salima),Chinguluwe HC (Sali)
+1402,Chipoka Health Centre,Chipoka HC
+1403,Chitala Health Centre,Chitala HC
+1404,Golomoti Health Centre,Golomoti HC
+1405,Kaundu Health Centre,Kaundu HC
+1406,Khombedza Health Centre,Khombedza HC
+1407,Lifuwu Dispensary,Lifuwu Disp
+1408,Maganga Health Centre,Maganga HC
+1409,Makiyoni Health Centre,Makiyoni HC
+1410,Mchoka Health Centre,Mchoka HC
+1411,Mtakataka Health Centre,Mtakataka HC
+1412,Mua Mission Hospital,Mua Hosp
+1413,Nakalanzi Health Centre,Nakalanzi HC
+1414,Ngodzi Health Centre,Ngodzi HC
+1415,Salima District Hospital,Salima Hosp
+1416,Senga Bay Baptist Dispensary,Senga Bay Disp
+1417,Thavite Health Centre,Thavite HC
+1418,Kaphatenga Health Centre,Kaphatenga HC
+1419,Police College Dispensary,Police College Disp
+1420,Mafco Health Centre,Mafco HC
+1421,Admarc Dispensary,Admarc Disp
+15,Malembo Health Centre (Lilongwe),Malembo HC (Lilong)
+15,Lilongwe Health District,Lilongwe
+1501,Area 18 Urban Health Centre,Area 18 HC
+1502,Area 25 Urban Health Centre,Area 25 HC
+1503,Lilongwe Bottom Hospital,Lilongwe Bottom Hosp
+1504,Chikowa Health Centre (Lilongwe),Chikowa HC (Lilong)
+1505,Chileka Health Centre (Lilongwe),Chileka HC (Lilong)
+1506,Chimbalanga Health Centre,Chimbalanga HC
+1507,Chitedze Health Centre,Chitedze HC
+1508,Chiunjiza Health Centre,Chiunjiza HC
+1509,Chiwamba Health Centre,Chiwamba HC
+1510,Chiwe Health Centre,Chiwe HC
+1511,Diamphwe Health Centre,Diamphwe HC
+1512,Dickson Health Centre,Dickson HC
+1513,Dzenza Health Centre,Dzenza HC
+1514,Kabudula Rural Hospital,Kabudula Hosp
+1515,Kang'Oma Health Centre,Kang'Oma HC
+1516,Kachale Health Centre,Kachale HC
+1517,Kawale Urban Health Centre,Kawale HC
+1518,Khongoni Health Centre,Khongoni HC
+1519,Likuni Hospital,Likuni Hosp
+1520,Lilongwe Central Hospital,Lilongwe Hosp
+1521,Lumbadzi Health Centre,Lumbadzi HC
+1522,Malingunde Health Centre,Malingunde HC
+1523,Maluwa Health Centre,Maluwa HC
+1524,Matapila Health Centre,Matapila HC
+1525,Mbabvi Health Centre,Mbabvi HC
+1526,Mbang'ombe 1 Health Centre,Mbang'ombe 1 HC
+1527,Mbang'ombe 2 Health Centre,Mbang'ombe 2 HC
+1528,Mbwatalika Health Centre,Mbwatalika HC
+1529,Ming'Ongo Health Centre,Ming'Ongo HC
+1530,Mitundu Rural Hospital,Mitundu Hosp
+1531,Mlale Hospital,Mlale Hosp
+1532,Mtenthera Health Centre,Mtenthera HC
+1533,Nambuma Health Centre,Nambuma HC
+1534,Nathenje Health Centre,Nathenje HC
+1535,Ndaula Health Centre,Ndaula HC
+1536,New Statehouse Dispensary,New Statehouse Disp
+1537,Ngoni Health Centre,Ngoni HC
+1538,Nkhoma Hospital,Nkhoma Hosp
+1539,Nsaru Health Centre,Nsaru HC
+1540,Nthondo Health Centre (Lilongwe),Nthondo HC (Lilong)
+1541,St Gabriels Hospital,St Gabriels Hosp
+1542,Ukwe Health Centre,Ukwe HC
+1543,Dzalanyama Dispensary,Dzalanyama Disp
+1544,Police (Area 30) Dispensary,Police Area 30 Disp
+1545,Kamuzu Barracks Dispensary,Kamuzu Barracks Disp
+1546,Khasu Health Centre,Khasu HC
+1547,Lilongwe District Health Office,Lilongwe DHO
+16,Mchinji Health District,Mchinji
+1601,Chioshya Health Centre,Chioshya HC
+1602,Chipumi Health Centre,Chipumi HC
+1603,Guilleme St Michaels Health Centre,Guilleme HC
+1604,Kaigwazanga Health Centre,Kaigwazanga HC
+1605,Kapanga Health Centre,Kapanga HC
+1606,Kapiri Health Centre,Kapiri HC
+1607,Kochilira Rural Hospital,Kochilira Hosp
+1608,Ludzi St Josephs Health Centre,Ludzi St Josephs HC
+1609,Mchinji District Hospital,Mchinji Hosp
+1610,Mikundi Health Centre,Mikundi HC
+1611,Mkanda Health Centre,Mkanda HC
+1612,Nkhwazi Health Centre,Nkhwazi HC
+1613,Tembwe Health Centre,Tembwe HC
+1614,Kazyozyo Dispensary,Kazyozyo Disp
+1615,Namizana Dispensary,Namizana Disp
+1616,Gumba Dispensary,Gumba Disp
+1617,Chimwamkango Dispensary,Chimwamkango Disp
+17,Dedza Health District,Dedza
+1701,Bembeke Health Centre,Bembeke HC
+1702,Chikuse Health Centre,Chikuse HC
+1703,Chimoto Health Centre,Chimoto HC
+1704,Chipwanya St Josephs Health Centre,Chipwanya HC
+1705,Chitowo Health Centre,Chitowo HC
+1706,Chongoni Health Centre,Chongoni HC
+1707,Dedza District Hospital,Dedza Hosp
+1708,Dzindevu Health Centre,Dzindevu HC
+1709,Kafele Health Centre,Kafele HC
+1710,Kalulu Health Centre,Kalulu HC
+1711,Kanyama Health Centre,Kanyama HC
+1712,Kanyezi Health Centre,Kanyezi HC
+1713,Kaphuka Health Centre,Kaphuka HC
+1714,Kasina Health Centre,Kasina HC
+1715,Lobi Health Centre,Lobi HC
+1716,Maonde Health Centre,Maonde HC
+1717,Matumba Health Centre,Matumba HC
+1718,Mayani Health Centre,Mayani HC
+1719,Mikondo Dispensary,Mikondo Disp
+1720,Mlangali Dispensary,Mlangali Disp
+1721,Mphathi Health Centre,Mphathi HC
+1722,Mphunzi Health Centre,Mphunzi HC
+1723,Mtendere Health Centre,Mtendere HC
+1724,Tsoyo Maternity,Tsoyo Mat
+1725,Mganja Maternity,Mganja Mat
+1725,Mtakataka Police Health Centre,Mtakataka Police
+1726,Mjini Dispensary,Mjini Dispensary
+1726,Mdeza Dispensary,Mdeza Disp
+18,Ntcheu Health District,Ntcheu
+1801,Bilira Health Centre,Bilira HC
+1802,Biriwiri Health Centre,Biriwiri HC
+1803,Bwanje Health Centre,Bwanje HC
+1804,Chigodi Health Centre,Chigodi HC
+1805,Chikande Health Centre,Chikande HC
+1806,Doviko Dispensary,Doviko Disp
+1807,Dzonzi-Mvai Health Centre,Dzonzi-Mvai HC
+1807,Dzunje Dispensary,Dzunje Disp
+1808,Ganya Maternity,Ganya Mat
+1809,Gowa Health Centre,Gowa HC
+1810,Kaloga Dispensary,Kaloga Disp
+1811,Kampanje Maternity,Kampanje Mat
+1812,Kandeu Dispensary,Kandeu Disp
+1813,Kapeni Health Centre,Kapeni HC
+1814,Kasinje Health Centre,Kasinje HC
+1815,Katsekera Health Centre,Katsekera HC
+1816,Lizulu Health Centre,Lizulu HC
+1817,Manjawira Maternity,Manjawira Mat
+1818,Matanda Health Centre,Matanda HC
+1819,Mlanda Health Centre,Mlanda HC
+1820,Mlangeni Health Centre,Mlangeni HC
+1821,Mlangeni Police Health Centre,Mlangeni Police HC
+1822,Mphepozinai Dispensary,Mphepozinai Disp
+1823,Mtonda Health Centre,Mtonda HC
+1824,Muluma Dispensary,Muluma Disp
+1825,Nsipe Health Centre,Nsipe HC
+1826,Nsiyaludzu Health Centre,Nsiyaludzu HC
+1827,Ntcheu District Hospital,Ntcheu Hosp
+1828,Nzama Health Centre,Nzama HC
+1829,Senzani Health Centre,Senzani HC
+1830,Sharpevale Maternity,Sharpevale Mat
+1831,Tsangano Dispensary,Tsangano Disp
+1832,Masasa Dispensary,Masasa Disp
+1833,Namisu Dispensary,Namisu Disp
+1834,Lakeview Health Centre,Lakeview HC
+1834,Chiole Dispensary,Chiole Disp
+1836,Sister Teleza Health Centre,Sister Teleza HC
+1837,Phanga Dispensary,Phanga Disp
+25,Mangochi Health District,Mangochi
+2501,Chikole Dispensary,Chikole Disp
+2502,Chilipa Health Centre (Mangochi),Chilipa HC (Mango)
+2503,Chiumbangame Health Centre,Chiumbangame HC
+2504,Jalasi Health Centre,Jalasi HC
+2505,Kapire Health Centre,Kapire HC
+2506,Katema Health Centre,Katema HC
+2507,Katuli Health Centre,Katuli HC
+2508,Koche Health Centre,Koche HC
+2509,Kukalanga Dispensary,Kukalanga Disp
+2510,Lugola Health Centre,Lugola HC
+2511,Lulanga Health Centre,Lulanga HC
+2512,Lungwena Health Centre,Lungwena HC
+2513,Luwalika Health Centre,Luwalika HC
+2514,Makanjira Health Centre,Makanjira HC
+2515,Malembo Health Centre,Malembo HC
+2516,St Martin Hospital,St Martin Hosp
+2518,Mase Health Centre,Mase HC
+2519,Mkumba Health Centre,Mkumba HC
+2520,Monkey-Bay Community Hospital,Monkey-Bay HC
+2521,Mpondas Health Centre,Mpondas HC
+2522,Namalaka Health Centre,Namalaka HC
+2523,Namwera Health Centre,Namwera HC
+2524,Nancholi Dispensary,Nancholi Disp
+2525,Nangalamu Health Centre,Nangalamu HC
+2526,Nankhwali Health Centre,Nankhwali HC
+2527,Nankumba Health Centre,Nankumba HC
+2528,Nkope Health Centre,Nkope HC
+2529,Phirilongwe Health Centre,Phirilongwe HC
+2530,Sr Marthas Health Centre,St Marthas HC
+2531,St Martins Health Centre,St Martins HC
+2533,Mtimabii Health Centre,Mtimabii Health Cent
+2536,Chiponde Health Centre (Mangochi),Chiponde HC
+26,Machinga Health District,Machinga
+2601,Chamba Dispensary (Machinga),Chamba Disp (Mach)
+2602,Chikweo Health Centre,Chikweo HC
+2603,Gawanani Health Centre,Gawanani HC
+2604,Kawinga Dispensary,Kawinga Disp
+2605,Machinga District Hospital,Machinga Hosp
+2606,Machinga Health Centre,Machinga HC
+2607,Mbonechera Dispensary,Mbonechera Disp
+2608,Mpiri Health Centre,Mpiri HC
+2609,Mposa Health Centre,Mposa HC
+2610,Namandanje Health Centre,Namandanje HC
+2611,Namanja Health Centre,Namanja HC
+2612,Nayinunje Health Centre,Nayinunje HC
+2613,Nayuchi Health Centre,Nayuchi HC
+2614,Ngokwe Health Centre,Ngokwe HC
+2615,Nsanama Health Centre,Nsanama HC
+2616,Ntaja Health Centre,Ntaja HC
+2617,Nyambi Health Centre,Nyambi HC
+2618,Mkwepere Dispensary,Mkepere HC
+2619,Mlomba Dispensary,Mlomba Disp
+2620,Mangamba Health Centre,Mangamba HC
+2621,Ntholowa Health Centre,Ntholowa HC
+27,Zomba Health District,Zomba
+2700,Zomba District Health Office,Zomba DHO
+2701,Bimbi Health Centre,Bimbi HC
+2702,Chamba Dispensary (Zomba),Chamba Disp (Zomba)
+2703,Chilipa Health Centre (Zomba),Chilipa HC (Zomba)
+2704,Chingale Health Centre,Chingale HC
+2705,Chipini Health Centre,Chipini HC
+2706,Domasi Rural Hospital,Domasi Hosp
+2707,H Parker Sharp Dispensary,H Parker Sharp Disp
+2708,Lambulira Health Centre,Lambulira HC
+2709,Likangala Health Centre,Likangala HC
+2710,Magomero Health Centre,Magomero HC
+2711,Makwapala Health Centre,Makwapala HC
+2712,Matiya Health Centre,Matiya HC
+2713,Mayaka Health Centre,Mayaka HC
+2714,Namasalima Health Centre (Zomba),Namasalima HC (Zom)
+2715,Namikango Health Centre,Namikango HC
+2716,Ngwelero Health Centre,Ngwelero HC
+2717,Nkasala Health Centre,Nkasala HC
+2718,Pirimiti Health Centre,Pirimiti HC
+2719,St Lukes Hospital,St Lukes Hosp
+2720,State House Dispensary,State House Disp
+2721,Thondwe Dispensary,Thondwe Disp
+2722,Zomba Central Hospital,Zomba Central Hosp
+2723,Zomba Mental Hospital,Zomba Mental Hosp
+2724,Matawale Urban Health Centre,Matawale HC
+2725,Nasawa Health Centre,Nasawa HC
+2726,Zomba Forestry Dispensary,Zomba Forestry Disp
+2727,Municipality Assembly Dispensary,Municipal Disp
+2727,Police Hospital,Police Hosp
+2729,Cobbe Barracks Hospital,Cobbe Hosp
+2730,Zomba Prison Dispensary,Zomba Prison Disp
+2731,M'mambo Heaith Centre,M'mambo HC
+2731,Naisi Health Centre,Naisi HC
+2733,Machinjiri Health Centre,Machinjiri HC
+28,Chiradzulu Health District,Chiradzulu
+2801,Chiradzulu District Hospital,Chiradzulu Hosp
+2802,Chitera Health Centre,Chitera HC
+2803,Mauwa Maternity,Mauwa Mat
+2803,Mauwa Health Centre,Mauwa HC
+2804,Milepa Health Centre,Milepa HC
+2805,Namadzi Health Centre,Namadzi HC
+2806,Namitambo Health Centre,Namitambo HC
+2807,Ndunde Health Centre,Ndunde HC
+2808,Nguludi St Josephs Hospital,Nguludi Hosp
+2809,Nkalo Health Centre,Nkalo HC
+2810,Pim Health Centre,Pim HC
+2811,Bilal Dispensary,Bilal Disp
+2811,Thumbwe Health Centre,Thumbwe HC
+2814,Mbulumbudzi Health Centre,Mbulumbudzi HC
+29,Blantyre Health District,Blantyre
+2901,Blantyre Civic Centre Dispensary,Bl Civic Centre Disp
+2902,Chabvala Health Centre,Chabvala HC
+2903,Chikowa Health Centre (Blantyre),Chikowa HC (Blant)
+2904,Chileka Health Centre,Chileka HC HC
+2905,Chilomoni Health Centre,Chilomoni HC
+2906,Chimembe Health Centre,Chimembe HC
+2907,Dziwe Dispensary,Dziwe Disp
+2908,Limbe Health Centre,Limbe HC
+2909,Lirangwe Health Centre,Lirangwe HC
+2910,Lundu Health Centre,Lundu HC
+2911,Madziabango Health Centre,Madziabango HC
+2912,Makata Dispensary,Makata Disp
+2913,Mdeka Health Centre,Mdeka HC
+2914,Mitsidi Dispensary,Mitsidi Disp
+2915,Mlambe Hospital,Mlambe Hosp
+2916,Mpemba Health Centre,Mpemba HC
+2917,Namikoko Dispensary,Namikoko Disp
+2918,Ndirande Urban Health Centre,Ndirande HC
+2919,Soche Dispensary,Soche Disp Disp
+2920,Soche Maternity,Soche Mat Mat
+2921,South Lunzu Dispensary,South Lunzu Disp
+2922,Zingwangwa Urban Health Centre,Zingwangwa HC
+2923,Chileka Sda Health Centre,Chileka Sda HC
+2924,Bangwe Health Centre,Bangwe HC
+2925,South Lunzu Health Centre,South Lunzu HC HC
+2926,Queen Elizabeth Central Hospital,QECH Hosp
+2927,Blantyre District Health Office,Blantyre DHO
+30,Mwanza Health District,Mwanza
+3002,Kunenekude Health Centre,Kunenekude HC
+3001,Mwanza District Hospital,Mwanza Hosp
+3003,Thambani Health Centre,Thambani HC
+3004,Tulonkhondo Health Centre,Tulonkhondo HC
+31,Thyolo Health District,Thyolo
+3101,Bvumbwe-Makungwa Health Centre,Bvumbwe-Makungwa HC
+3102,Bvumbwe Research Health Centre,Bvumbwe Research HC
+3103,Changata Health Centre,Changata HC
+3104,Chimaliro Health Centre,Chimaliro HC
+3105,Chimvu Health Centre,Chimvu HC
+3106,Chingazi Health Centre,Chingazi HC
+3107,Gombe Maternity,Gombe Mat
+3108,Hallena Oakely Health Centre,Hallena Oakely HC
+3109,Khonjeni Health Centre,Khonjeni HC
+3110,Makapwa Health Centre,Makapwa HC
+3111,Malamulo Hospital,Malamulo Hosp
+3112,Mangunda Health Centre,Mangunda HC
+3113,Mbalanguzi Dispensary,Mbalanguzi Disp
+3114,Mikolongwe Health Centre,Mikolongwe HC
+3115,Nkhataombere Maternity,Nkhataombere Mat
+3116,Nsabwe Dispensary,Nsabwe Disp
+3117,St Josephs Mitengo Health Centre,St Josephs HC
+3118,St Martins Molere Health Centre,St Martins Molere HC
+3119,Thekerani Rural Hospital,Thekerani Hosp
+3120,Thomas Health Centre,Thomas HC
+3121,Thyolo District Hospital,Thyolo Hosp
+3122,Zoa Maternity,Zoa Mat
+3123,Zoa Dispensary,Zoa Disp
+3123,Zoa Health Centre,Zoa Health Centre
+3124,Chipho Health Centre,Chipho HC
+3126,Amalika Dispensary,Amalika Disp
+3127,Chinthebe Dispensary,Chinthebe Disp
+32,Mulanje Health District,Mulanje
+3201,Bondo Health Centre,Bondo HC
+3202,Chambe Health Centre,Chambe HC
+3203,Chinyama Health Centre,Chinyama HC
+3204,Chonde Health Centre,Chonde HC
+3205,Dzenje Maternity,Dzenje Mat
+3206,Kambenje Health Centre,Kambenje HC
+3207,Mbiza Health Centre,Mbiza HC
+3208,Milonde Health Centre,Milonde HC
+3209,Mimosa Dispensary,Mimosa Disp
+3210,Mpala Health Centre,Mpala HC
+3211,Mulanje District Hospital,Mulanje Hosp
+3212,Mulanje Mission Hospital,Mulanje Mission Hosp
+3213,Mulomba Health Centre,Mulomba HC
+3214,Muloza Health Centre,Muloza HC
+3215,Namasalima Health Centre (Mulanje),Namasalima HC (Mula)
+3216,Namphungo Health Centre,Namphungo HC
+3217,Namulenga Health Centre,Namulenga HC
+3218,Thembe Dispensary,Thembe Disp
+3219,Thuchila Health Centre,Thuchila HC
+3220,Lujeri Health Centre,Lujeri HC
+3221,Chisitu Health Centre,Chisitu HC
+3222,Naphimba Health Centre,Naphimba Hc
+3223,Mkomaula Health Centre,Mkomaula HC
+33,Chikwawa Health District,Chikwawa
+3301,Chang'ambika Health Centre,Chang'Ambika HC
+3302,Chapananga Health Centre,Chapananga HC
+3303,Chikwawa District Hospital,Chikwawa Hosp
+3304,Chipwaila Health Centre,Chipwaila HC
+3305,Dolo Health Centre,Dolo HC
+3306,Gaga Health Centre,Gaga HC
+3307,Kakoma Health Centre,Kakoma HC
+3308,Kasinthula Dispensary,Kasinthula Disp
+3309,Lengwe Dispensary,Lengwe Disp
+3310,Makhwira Health Centre,Makhwira HC
+3311,Maperera Health Centre,Maperera HC
+3312,Misomali Health Centre,Misomali HC
+3313,Mkumaniza Health Centre,Mkumaniza HC
+3314,Ndakwela Health Centre,Ndakwela HC
+3315,Ngabu Rural Hospital,Ngabu Hosp
+3316,St Montfort Hospital,St Montfort Hosp
+3317,Chithumba Maternity,Chithumba Mat
+3318,Kapichila (ESCOM) Health Centre,Kapichila HC
+3319,SUCOMA Health Centre (Illovo),SUCOMA HC
+3320,Mfera Health Centre,Mfera HC
+3321,Gola Dispensary,Gola Disp
+3322,Bereu Dispensary,Bereu Disp
+34,Nsanje Health District,Nsanje
+3401,Chididi Health Centre (Nsanje),Chididi HC (Nsanje)
+3402,Kalemba Health Centre,Kalemba HC
+3403,Lulwe Health Centre,Lulwe HC
+3404,Makhanga Health Centre,Makhanga HC
+3405,Masenjere Health Centre,Masenjere HC
+3406,Mbenje Health Centre,Mbenje HC
+3407,Mlolo Dispensary,Mlolo Disp
+3408,Ndamera Health Centre,Ndamera HC
+3409,Nsanje District Hospital,Nsanje Hosp
+3410,Nyamithuthu Health Centre,Nyamithuthu HC
+3411,Sankhulani Health Centre,Sankhulani HC
+3412,Sorgin Health Centre,Sorgin HC
+3413,Tengani Health Centre,Tengani HC
+3414,Trinity - Fatima Hospital,Trinity - Fatima Hos
+3415,Ching'oma Dispensary,Ching'Oma Disp
+3416,Mkango Dispensary,Mkango Disp
+3417,Phokera Dispensary,Phokera Disp
+3417,Phokera Health Centre,Phokera HC
+3418,Misamvu Dispensary,Misamvu Disp
+3419,Kanyimbi Dispensary,Kanyimbi Disp
+3420,Mchacha Dispensary,Mchacha Disp
+3421,Kamphata Dispensary,Kamphata Disp
+3422,Nkhande Dispensary,Nkhande Disp
+35,Phalombe Health District,Phalombe
+3501,Chiringa Dispensary,Chiringa Disp Disp
+3502,Chiringa Maternity,Chiringa Mat Mat
+3503,Chitekesa Health Centre,Chitekesa HC
+3504,Phalombe Mission Hospital,Phalombe Mission Hsp
+3505,Kalinde Dispensary,Kalinde Disp
+3506,Migowi Health Centre,Migowi HC
+3507,Mkhwayi Health Centre,Mkhwayi HC
+3508,Mpasa Health Centre,Mpasa HC
+3509,Mwanga Health Centre,Mwanga HC
+3510,Nambazo Health Centre,Nambazo HC
+3511,Nkhulambe Health Centre,Nkhulambe HC
+3512,Phalombe Dispensary,Phalombe Disp
+3513,Nambiti II Health Centre,Nambiti II HC
+3513,Sukasanje Health Centre,Sukasanje HC
+36,Balaka Health District,Balaka
+3601,Balaka District Hospital,Balaka Hosp
+3602,Balaka OPD Health Centre,Balaka OPD HC
+3603,Kalembo Dispensary,Kalembo Disp
+3604,Kankao Health Centre,Kankao HC
+3605,Mbera Health Centre,Mbera HC
+3606,Phalula Health Centre,Phalula HC
+3607,Phimbi Health Centre,Phimbi HC
+3608,Ulongwe Health Centre,Ulongwe HC
+3609,Utale 1 Health Centre,Utale 1 HC
+3610,Utale 2 Health Centre,Utale 2 HC
+3611,Namanolo Health Centre,Namanolo HC
+3612,Chiyendausiku Health Centre,Chiyendausiku HC
+3613,Kwitanda Health Centre,Kwitanda HC
+,,Neno
+3701,Chifunga Health Centre,Chifunga HC
+3702,Ligowe Dispensary,Ligowe DISP
+3703,Lisungwi Health Centre,Lisungwi HC
+3704,Luwani Health Centre,Luwani HC
+3705,Magareta Health Centre,Magareta HC
+3706,Matandani Health Centre,Matandani HC
+3707,Matope Health Centre,Matope HC
+3708,Midzemba Dispensary,Midzemba HC
+3709,Neno District Hospital,Neno Hosp
+3710,Neno Parish Health Centre,Neno Parish HC
+3711,Nsambe Sda Health Centre,Nsambe Sda HC
+3712,Nkula Health Centre,Nkula HC
+3713,zalewa Dispensary,Zalewa DISP
