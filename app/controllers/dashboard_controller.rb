@@ -7,11 +7,15 @@ class DashboardController < ApplicationController
   scores = {}
 
   children = Child.by_birth_district_and_record_status
-
-  (children || []).each do |child|
-   scores[child.birth_district] = Hash.new(0) if scores[child.birth_district].blank?
-   scores[child.birth_district][child.record_status] += 1
+  begin
+   (children || []).each do |child|
+    scores[child.birth_district] = Hash.new(0) if scores[child.birth_district].blank?
+    scores[child.birth_district][child.record_status] += 1
+   end
+  else
+   scores
   end
+
 
 =begin
   districts = District.by_name.all.collect{|x| [x.name, x.id]}
