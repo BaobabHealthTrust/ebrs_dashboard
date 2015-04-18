@@ -12,7 +12,7 @@ class DashboardController < ApplicationController
     scores[child.birth_district] = Hash.new(0) if scores[child.birth_district].blank?
     scores[child.birth_district][child.record_status] += 1
    end
-  else
+  rescue RestClient::ResourceNotFound => nfe
    scores
   end
 
