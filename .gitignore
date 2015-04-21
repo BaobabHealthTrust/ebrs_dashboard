@@ -21,4 +21,4 @@ config/*.yml
 .ruby-version
 .idea/
 *#
-/Doc/statistics.txt
+/docs/statistics.txt
