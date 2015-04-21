@@ -1,5 +1,0 @@
----
-'':
-  DC OPEN: 1
-Ntcheu:
-  DC OPEN: 4
