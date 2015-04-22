@@ -1,7 +1,8 @@
+#!/usr/bin/ruby
 require 'yaml'
 
 def start
-
+   puts "start"
   results = get_tallies
 
   save_tallies(results)
